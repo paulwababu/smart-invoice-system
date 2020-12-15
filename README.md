@@ -40,9 +40,9 @@ $ sudo -H pip install --upgrade pip
 $ pip install django
 ```
 
-4. Download InvoiceManager from Github repo. Optionally, download the Zip file from https://github.com/mambojuice/invoicemanager/archive/master.zip
+4. Download InvoiceManager from Github repo. Optionally, download the Zip file
 ```bash
-$ git clone https://github.com/mambojuice/invoicemanager --branch master
+$ git clone https://github.com/paulwababu/smart-invoice-system.git
 $ sudo cp -r invoicemanager /opt
 $ cd /opt/invoicemanager
 ```
